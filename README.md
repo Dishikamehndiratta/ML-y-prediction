@@ -63,7 +63,6 @@ In this section, provide a summary of the significant variables identified and t
 - `notebooks/`: Jupyter notebooks or code files for data preprocessing, model building, and interpretation.
 - `model/`: Saved model files (if applicable).
 - `README.md`: This file.
-- `LICENSE`: Specify the license for your code and data, if applicable.
 
 ### How to Use
 1. Clone the repository to your local machine.
